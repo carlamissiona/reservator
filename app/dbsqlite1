@@ -1,0 +1,33 @@
+// package dbtools
+
+// import (
+// 	"database/sql"
+// 	"fmt"
+// 	"io/ioutil"
+// 	"os"
+// 	"path/filepath"
+
+// 	_ "modernc.org/sqlite"
+// )
+
+// func main1() error {
+// 	return err
+// 	}	dir, err := ioutil.TempDir("", "test-")
+// 	if err != nil {
+	
+
+// 	defer os.RemoveAll(dir)
+
+// 	fn := filepath.Join(dir, "db")
+
+// 	db, err := sql.Open("sqlite", "../app/reservator.db")
+// 	if err != nil {
+// 		return err
+// 	}
+
+// 	rows, err := db.Query("select * from Users;")
+// 	if err != nil {
+// 		return err
+// 	}
+
+// }

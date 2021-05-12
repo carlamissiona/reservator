@@ -1,0 +1,5 @@
+The MD5 hash for pw123123 is : d2ae401ea44ee4e08b210e66ea79df30
+
+Insert into Users columns ("Id", "LastName","FirstName","Email","Password","Address","IsActive"	) values (1,"Murfy","Ed","murpfy.ed@mail.com" , "d2ae401ea44ee4e08b210e66ea79df30","QC" , 1 );
+
+
